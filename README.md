@@ -10,6 +10,7 @@
 
 ## Build tools Automation with Jenkins
 1. [Jenkins] (https://github.com/ManhTrinhNguyen/Jenkins/tree/main)
+2. [Jenkins Exercise] (https://github.com/ManhTrinhNguyen/jenkins-exercise/tree/main)
    
 ## AWS (Amazon Web Service)
 1. [AWS] (https://github.com/ManhTrinhNguyen/Jenkins-AWS)
