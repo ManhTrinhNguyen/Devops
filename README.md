@@ -14,3 +14,4 @@
    
 ## AWS (Amazon Web Service)
 1. [AWS] (https://github.com/ManhTrinhNguyen/Jenkins-AWS)
+2. [AWS exercise] (https://github.com/ManhTrinhNguyen/AWS-exercise)
