@@ -25,25 +25,25 @@
 1] devops-exercises (67.9k⭐)
 • Extensive practice with Linux, AWS, Docker, K8s
 • 2600+ hands-on exercises & scenarios
-↳ https://lnkd.in/d6vQPgqU
+↳ (https://github.com/bregman-arie/devops-exercises)
 
 2] DevOps Interview Guide 
 • Cloud & DevOps specific scenarios
 • Certification preparation resources
-↳ https://lnkd.in/dUWhA4s6
+↳ (https://github.com/ramanagali/Interview_Guide)
 
 3] DevOps Projects by NotHarshhaa
 • Real-world project implementations
 • Step-by-step deployment guides
-↳ https://lnkd.in/dnFc8wS5
+↳ (https://github.com/NotHarshhaa/DevOps-Projects)
 
 4] DevOps Interview Questions
 • Comprehensive question bank
 • Latest industry practices covered
-↳ https://lnkd.in/dZdvhcVP
+↳ (https://github.com/rohitg00/devops-interview-questions)
 
 5] Cloud-DevOps Learning Resources
 • Free courses & tutorials
 • Community contributed resources
-↳ https://lnkd.in/dRHuuAYn
+↳ (https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources)
 ````
