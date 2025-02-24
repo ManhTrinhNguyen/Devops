@@ -18,3 +18,32 @@
 
 ## Kubernetes 
 1. [Kubernetes] (https://github.com/ManhTrinhNguyen/Kubernetes)
+
+## 5 best Devops resources 
+
+```
+1] devops-exercises (67.9k⭐)
+• Extensive practice with Linux, AWS, Docker, K8s
+• 2600+ hands-on exercises & scenarios
+↳ https://lnkd.in/d6vQPgqU
+
+2] DevOps Interview Guide 
+• Cloud & DevOps specific scenarios
+• Certification preparation resources
+↳ https://lnkd.in/dUWhA4s6
+
+3] DevOps Projects by NotHarshhaa
+• Real-world project implementations
+• Step-by-step deployment guides
+↳ https://lnkd.in/dnFc8wS5
+
+4] DevOps Interview Questions
+• Comprehensive question bank
+• Latest industry practices covered
+↳ https://lnkd.in/dZdvhcVP
+
+5] Cloud-DevOps Learning Resources
+• Free courses & tutorials
+• Community contributed resources
+↳ https://lnkd.in/dRHuuAYn
+````
