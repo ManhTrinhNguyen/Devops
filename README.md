@@ -18,6 +18,8 @@
 
 ## Kubernetes 
 1. [Kubernetes] (https://github.com/ManhTrinhNguyen/Kubernetes)
+2. [Kubernetes exercise] (https://github.com/ManhTrinhNguyen/Kubernetes-Practice)
+3. [Kubernetes AWS (EKS, Fargate)]: 
 
 ## 5 best Devops resources 
 
