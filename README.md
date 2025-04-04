@@ -12,6 +12,7 @@
 1. [Jenkins] (https://github.com/ManhTrinhNguyen/Jenkins/tree/main)
 2. [Jenkins Exercise Nodejs] (https://github.com/ManhTrinhNguyen/jenkins-exercise/tree/main)
 3. [Jenkins Exercise Java-Maven] (https://github.com/ManhTrinhNguyen/Jenkin-Exercise-Java-Maven)
+4. [Shared_Library] (https://github.com/ManhTrinhNguyen/Share_Library_Exercise)
    
 ## AWS (Amazon Web Service)
 1. [AWS] (https://github.com/ManhTrinhNguyen/Jenkins-AWS)
