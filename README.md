@@ -22,6 +22,7 @@
 1. [Kubernetes] (https://github.com/ManhTrinhNguyen/Kubernetes)
 2. [Kubernetes exercise] (https://github.com/ManhTrinhNguyen/Kubernetes-Practice)
 3. [Kubernetes AWS (EKS, Fargate)]:
+4. [Kubernetes exercise-2] (https://github.com/ManhTrinhNguyen/Kubernetes0-Exercise)
 
 ## Terraform
 1. [Terraform] (https://github.com/ManhTrinhNguyen/Infrastructure-as-code-Terraform/blob/main/README.md)
