@@ -29,6 +29,7 @@
 
 ## Terraform
 1. [Terraform] (https://github.com/ManhTrinhNguyen/Infrastructure-as-code-Terraform/blob/main/README.md)
+2. [Terraform-Exercise] (https://github.com/ManhTrinhNguyen/Terraform-Exercise)
 
 
 ## 5 best Devops resources 
