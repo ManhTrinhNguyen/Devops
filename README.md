@@ -31,6 +31,9 @@
 1. [Terraform] (https://github.com/ManhTrinhNguyen/Infrastructure-as-code-Terraform/blob/main/README.md)
 2. [Terraform-Exercise] (https://github.com/ManhTrinhNguyen/Terraform-Exercise)
 
+## Python 
+1. [Python Automation] (https://github.com/ManhTrinhNguyen/Python-Devops)
+
 
 ## 5 best Devops resources 
 
