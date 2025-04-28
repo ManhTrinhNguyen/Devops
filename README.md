@@ -29,7 +29,7 @@
 
 ## AWS - EKS, ECS, Fargate, ECR
 1. [AWS-EKS] (https://github.com/ManhTrinhNguyen/Kubernetes-on-AWS-EKS-)
-2. [AWS-EKS-exercise] (https://github.com/ManhTrinhNguyen/AWS-EKS-exercise)
+2. [AWS-EKS-exercise-Java-Gradle] (https://github.com/ManhTrinhNguyen/AWS-EKS-exercise)
 
 ## Terraform
 1. [Terraform] (https://github.com/ManhTrinhNguyen/Infrastructure-as-code-Terraform/blob/main/README.md)
