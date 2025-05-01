@@ -34,7 +34,7 @@
 ## Terraform
 1. [Terraform] (https://github.com/ManhTrinhNguyen/Infrastructure-as-code-Terraform/blob/main/README.md)
 2. [Terraform-Exercise] (https://github.com/ManhTrinhNguyen/Terraform-Exercise)
-3. [Complete-CI/CD-Terraform-Java-Gradle] ()
+3. [Complete-CI/CD-Terraform-Java-Gradle] (https://github.com/ManhTrinhNguyen/Complete-CI-CD-Terraform)
 
 ## Python 
 1. [Python Automation] (https://github.com/ManhTrinhNguyen/Python-Devops)
