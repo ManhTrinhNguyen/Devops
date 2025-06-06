@@ -39,6 +39,8 @@
 ## Python 
 1. [Python Automation] (https://github.com/ManhTrinhNguyen/Python-Devops)
 
+## Prometheus, Grafana 
+1. [Prometheus, Grafana] (https://github.com/ManhTrinhNguyen/Prometheus/blob/main/README.md)
 
 ## 5 best Devops resources 
 
